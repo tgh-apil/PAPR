@@ -1,6 +1,6 @@
 # Locally-Manufacturable Powered Air Purifying Respirator (PAPR) Fan
 An open-source locally-manufacturable Powered Air Purifying Respirator (PAPR), produced using standard electronic components, Li-ion batteries from power-tools, HME filters, and a hip-mounted cast urethane enclosure created with silicone casting from 3D printed model. 
-Compatible with modified snorkle mask devices with standard 22mm ISO connection.  
+Compatible with modified snorkel mask devices with standard 22mm ISO connection.  
 
 Developed at the [Lynn & Arnold Irwin Advanced Perioperative Imaging Lab, Toronto General Hospital](https://apil.ca).
 
